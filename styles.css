@@ -9,39 +9,3 @@ body {
     font-size: 16px;
     color: #000000; 
 }
- .main-header {
-            background-color: #343a40;
-            color: #ffffff;
-            padding: 60px 0;
-            text-align: center;
-        }
-        .main-header h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
-        }
-        .main-header p {
-            font-size: 1.2rem;
-            margin-bottom: 30px;
-        }
-        .about-me, .hard-skills, .soft-skills, .projects {
-            padding: 60px 0;
-            text-align: center;
-        }
-        .about-me {
-            background-color: #ffffff;
-        }
-        .hard-skills {
-            background-color: #f8f9fa;
-        }
-        .soft-skills {
-            background-color: #ffffff;
-        }
-        .projects {
-            background-color: #f8f9fa;
-        }
-        .main-footer {
-            background-color: #343a40;
-            color: #ffffff;
-            text-align: center;
-            padding: 40px 0;
-        }
